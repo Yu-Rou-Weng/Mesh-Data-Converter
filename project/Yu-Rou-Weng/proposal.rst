@@ -89,7 +89,7 @@ System Architecture
 
 <p style="text-align: center;">
     <img src="image/System Architecture.jpg" alt="Compare"><br>
-</p>
+    </p>
 
 .. Analyze how your system takes input, produces results, provide interface, and
 .. erforms any other operations.  Describe the system's work flow.  You may
