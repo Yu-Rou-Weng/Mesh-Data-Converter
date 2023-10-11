@@ -86,9 +86,11 @@ simulations. This converter offers a more precise mesh data conversion solution 
 System Architecture
 ===================
 (Will finish after discussion with yy teacher)
+
 <p style="text-align: center;">
     <img src="image/System Architecture.jpg" alt="Compare"><br>
 </p>
+
 .. Analyze how your system takes input, produces results, provide interface, and
 .. erforms any other operations.  Describe the system's work flow.  You may
 .. consider to use a flow chart but it is not required.  Specify the constraints
