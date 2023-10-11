@@ -88,8 +88,8 @@ System Architecture
 (Will finish after discussion with yy teacher)
 
 <p style="text-align: center;">
-    <img src="image/System Architecture.jpg" alt="Compare"><br>
-    </p>
+    <img src="image/system.jpg" alt="System"><br>
+</p>
 
 .. Analyze how your system takes input, produces results, provide interface, and
 .. erforms any other operations.  Describe the system's work flow.  You may
