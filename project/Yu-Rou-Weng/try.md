@@ -47,7 +47,7 @@ for their simulations.
 
 ## System Architecture
 
-![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/attempt.jpg)
+![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/temp.jpg)
 
 ## API Description
 
