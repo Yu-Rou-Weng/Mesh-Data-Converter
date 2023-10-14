@@ -72,20 +72,23 @@ for their simulations.
      - Study domain knwoledges  
      - Prepare a presentaion skeleton  
 * Week 2 (11/6):  
-1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic  
-of both Plot3D and SU2.  
-2.Start to design the conversion in C++ if 1. is done in advance
-* Week 3 (11/13): Implement conversion in C++
-* Week 4 (11/20): Implement conversion in C++ and bind to python
+     - Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2.  
+     - Start to design the conversion in C++ if 1. is done in advance
+* Week 3 (11/13):  
+     - Implement conversion in C++
+* Week 4 (11/20):  
+     - Implement conversion in C++ and bind to python
 * Week 5 (11/27):  
-1.Implement a CMake file for a draft  
-2.Add some works and adjust the presentation draft
+     - Implement a CMake file for a draft  
+     - Add some works and adjust the presentation draft
 * Week 6 (12/4):  
-1.Write unit tests and refactor codes.  
-2.Check whether if my presentation draft follow the grading criteria.  
-3.Integrate to modmesh (depends on remaining time)
-* Week 7 (12/11): Buffer time for debugging and and documentation
-* Week 8 (12/18): Refine and finish the final project, prepare for the presentation
+     - Write unit tests and refactor codes.  
+     - Check whether if my presentation draft follow the grading criteria.  
+     - Integrate to modmesh (depends on remaining time)
+* Week 7 (12/11):  
+     - Buffer time for debugging and and documentation
+* Week 8 (12/18):  
+     - Refine and finish the final project, prepare for the presentation
 
 ## References
 
