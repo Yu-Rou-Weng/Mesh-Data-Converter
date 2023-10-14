@@ -1,4 +1,4 @@
-# Mesh Data Converter: A Simple C++ libaray for Converting NASA's Plot3D to SU2
+# Mesh Data Converter: A Simple C++ Libaray to Convert NASA's Plot3D to SU2
 
 
 ## Basic Information
@@ -16,7 +16,7 @@ Converting NASA's Plot3D to SU2 file format is a key aspect of this mesh data co
 process, allowing seamless integration and utilization of the numerical solutions within 
 different computational frameworks.
 
-* github repository: [https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master)
+* Github Repository: [https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master)
 
 ## Problem to Solve
 
@@ -47,15 +47,17 @@ for their simulations.
 
 ## System Architecture
 
-![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/temp.jpg)
+![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/ConceptFlow.png)
 
 ## API Description
 
 (Still in progress, will finish after discussion with yy teacher)
 
 1. Fuctions in c++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
+   - Use Python to read input and write output data
+   - Use C++ to implement the “Data Conversion” library
 
-2. Use pybind11 for wrapping
+2. Use Pybind11 to wrap C++ functions for Python.
 
 ## Engineering Infrastructure
 
@@ -67,8 +69,8 @@ for their simulations.
 ## Schedule
 
 * Week 1 (10/30):  
-       1.Study domain knwoledges  
-       2.Prepare a presentaion skeleton  
+1.Study domain knwoledges  
+2.Prepare a presentaion skeleton  
 
 * Week 2 (11/6):  
 1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic  
