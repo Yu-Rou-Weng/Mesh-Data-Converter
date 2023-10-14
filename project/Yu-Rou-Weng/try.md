@@ -62,7 +62,7 @@ for their simulations.
 1. Automatic build system: `CMake`
 2. Version control: `Git`
 3. Testing framework: `Pytest`
-4. Documentation: `README(or Notion)`, `[PyDoc](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)`
+4. Documentation: `README(or Notion)`, [`PyDoc`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 ## Schedule
 
