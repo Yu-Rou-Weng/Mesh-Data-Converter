@@ -23,7 +23,7 @@ different computational frameworks.
 Plot3D and SU2 serve as good examples of the numerical analytical codes:
 
 1. Plot3D is a file format which can only store structured grid and result data and 
-  remains a only file format in the filed of Computaional Fluid Dynamic(CFD).
+  remains a only file format in the filed of Computaional Fluid Dynamic (CFD).
 
 2. SU2 is a suite of open-source software tools written in C++ for the numerical solution 
   of partial differential equations (PDE) and performing PDE-constrained optimization.
@@ -59,19 +59,15 @@ for their simulations.
 
 ## Engineering Infrastructure
 
-1. Automatic build system:**CMake**
-2. Version control: **Git**
-3. Testing framework: **Pytest** 
-4. Documentation: **README(or Notion)**, **[PyDoc]**(https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+1. Automatic build system: `CMake`
+2. Version control: `Git`
+3. Testing framework: `Pytest`
+4. Documentation: `README(or Notion)`, `[PyDoc](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)`
 
 ## Schedule
 
-* Week 1 (10/30):
-         1.Study domain knwoledges
-         2.Prepare a presentaion skeleton
-* Week 2 (11/6):
-         1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2.
-         2.Start to design the conversion in C++ if 1. is done in advance
+* Week 1 (10/30):  1.Study domain knwoledges  2.Prepare a presentaion skeleton
+* Week 2 (11/6):  1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2.  2.Start to design the conversion in C++ if 1. is done in advance
 * Week 3 (11/13):Implement conversion in C++
 * Week 4 (11/20):Implement conversion in C++ and bind to python
 * Week 5 (11/27):
