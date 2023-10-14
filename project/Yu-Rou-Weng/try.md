@@ -66,7 +66,9 @@ for their simulations.
 
 ## Schedule
 
-* Week 1 (10/30):  1.Study domain knwoledges  2.Prepare a presentaion skeleton
+* Week 1 (10/30):  
+1.Study domain knwoledges  
+2.Prepare a presentaion skeleton
 * Week 2 (11/6):  1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2.  2.Start to design the conversion in C++ if 1. is done in advance
 * Week 3 (11/13):Implement conversion in C++
 * Week 4 (11/20):Implement conversion in C++ and bind to python
