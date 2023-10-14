@@ -57,7 +57,7 @@ for their simulations.
 
 ## API Description
 
-1. Fuctions in c++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
+1. Fuctions in C++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
    - Use Python to read input and write output data
    - Use C++ to implement the `Data Conversion` library
 
