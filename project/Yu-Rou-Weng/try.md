@@ -69,9 +69,8 @@ for their simulations.
 ## Schedule
 
 * Week 1 (10/30):  
-- [ ] Study domain knwoledges  
-- [ ] Prepare a presentaion skeleton  
-
+     - Study domain knwoledges  
+     - Prepare a presentaion skeleton  
 * Week 2 (11/6):  
 1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic  
 of both Plot3D and SU2.  
