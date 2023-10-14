@@ -40,7 +40,9 @@ into a format compatible with SU2. This converter will function as a standalone 
      - modmesh is a toolkit for solving Partial Differential Equations (PDE)  
      - Fluid flow problems in Computational Fluid Dynamics (CFD) are often   
      described by PDE
-     - For fluid dynamics simulations in modmesh, geometric information (such as object shapes and boundary conditions) needs to be converted into a computer-readable format. This converter facilitates seamless integration between modmesh and SU2, enabling accurate and efficient computational fluid dynamics simulations
+     - modmesh converts geometric information into computer-readable formats like Plot3D.
+     This converter facilitates seamless integration between modmesh and SU2, enabling 
+     accurate and efficient computational fluid dynamics simulations
 
 2. Fluid dynamics professionals or researchers who need to exchange mesh data between Plot3D and SU2 when using different simulation software.
 
