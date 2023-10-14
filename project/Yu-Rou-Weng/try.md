@@ -47,7 +47,7 @@ for their simulations.
 
 ## System Architecture
 
-![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/flow600.jpg)
+![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/try.jpg)
 
 ## API Description
 
