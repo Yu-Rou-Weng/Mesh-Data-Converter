@@ -22,10 +22,10 @@ different computational frameworks.
 
 Plot3D and SU2 serve as good examples of the numerical analytical codes:
 
-1.Plot3D is a file format which can only store structured grid and result data and 
+1. Plot3D is a file format which can only store structured grid and result data and 
   remains a only file format in the filed of Computaional Fluid Dynamic(CFD).
 
-2.SU2 is a suite of open-source software tools written in C++ for the numerical solution 
+2. SU2 is a suite of open-source software tools written in C++ for the numerical solution 
   of partial differential equations (PDE) and performing PDE-constrained optimization.
 
 When dealing with numerical analysis, the mesh data format differs between Plot3D and SU2. 
@@ -36,15 +36,14 @@ into a format compatible with SU2. This converter will function as a standalone 
 
 ## Prospective Users
 
-1.Modmesh: (Will add more explanation after discussions)
+1. Modmesh: (Will add more explanation after discussions)
 
-2.Fluid dynamics professionals or researchers who need to exchange mesh data between Plot3D and SU2 when 
-using different simulation software.
+2. Fluid dynamics professionals or researchers who need to exchange mesh data between Plot3D and SU2 when using different simulation software.
 
-3.In the aerospace and automotive industries, engineers frequently rely on computational fluid dynamics (CFD) 
-simulations. This converter offers a more precise mesh data conversion solution for their simulations.
+3. In the aerospace and automotive industries, engineers frequently rely on computational fluid dynamics (CFD) simulations. This converter offers a more precise mesh data conversion solution 
+for their simulations.
 
-4.Computer Scientists, Students, and educators who are working in computational fluid dynamics studies and experiments.
+4. Computer Scientists, Students, and educators who are working in computational fluid dynamics studies and experiments.
 
 ## System Architecture
 
@@ -54,20 +53,19 @@ simulations. This converter offers a more precise mesh data conversion solution 
 
 (Still in progress, will finish after discussion with yy teacher)
 
-1.Fuctions in c++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
+1. Fuctions in c++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
 
-2.Use pybind11 for wrapping
+2. Use pybind11 for wrapping
 
 ## Engineering Infrastructure
 
 1. Automatic build system:**CMake**
-2. Version control: Git
+2. Version control: **Git**
 3. Testing framework: **Pytest** 
-4. Documentation: README(or Notion), [PyDoc](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+4. Documentation: **README(or Notion)**, **[PyDoc]**(https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 ## Schedule
 
-* Planning phase (8 weeks from mm/dd to mm/dd):
 * Week 1 (10/30):
          1.Study domain knwoledges
          2.Prepare a presentaion skeleton
