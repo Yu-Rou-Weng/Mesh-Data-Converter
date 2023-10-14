@@ -55,7 +55,7 @@ for their simulations.
    - Use Python to read input and write output data
    - Use C++ to implement the `Data Conversion` library
 
-2. Use Pybind11 to wrap C++ functions for Python.
+2. Use Pybind11 to wrap C++ functions for Python
 
 ## Engineering Infrastructure
 
@@ -67,21 +67,21 @@ for their simulations.
 ## Schedule
 
 * Week 1 (10/30):  
-     - Study domain knwoledges  
+     - Study domain knwoledges and meanwhile write corresponding prototypes
      - Prepare a presentaion skeleton  
 * Week 2 (11/6):  
-     - Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2.  
+     - Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic of both Plot3D and SU2  
      - Start to design the conversion in C++ if 1. is done in advance
 * Week 3 (11/13):  
-     - Implement conversion in C++
+     - Implement conversion in C++ & write pybind11 wrapper
 * Week 4 (11/20):  
-     - Implement conversion in C++ and bind to python
+     - Implement conversion in C++ & write pybind11 wrapper
 * Week 5 (11/27):  
      - Implement a CMake file for a draft  
      - Add some works and adjust the presentation draft
 * Week 6 (12/4):  
-     - Write unit tests and refactor codes.  
-     - Check whether if my presentation draft follow the grading criteria.  
+     - Write unit tests and refactor codes  
+     - Check whether if my presentation draft follow the grading criteria  
      - Integrate to modmesh (depends on remaining time)
 * Week 7 (12/11):  
      - Buffer time for debugging and and documentation
@@ -94,4 +94,5 @@ for their simulations.
 - [Plot3d File Format for Grid and Solution Files](https://www.grc.nasa.gov/www/wind/valid/plot3d.html)
 - [SU2](https://su2code.github.io/)
 - To be added…
+
 
