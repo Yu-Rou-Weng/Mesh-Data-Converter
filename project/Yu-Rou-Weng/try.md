@@ -47,7 +47,7 @@ for their simulations.
 
 ## System Architecture
 
-![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/ConceptFlow.png)
+![image](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/blob/try/project/Yu-Rou-Weng/image/ConceptFlowChart.png)
 
 ## API Description
 
@@ -55,7 +55,7 @@ for their simulations.
 
 1. Fuctions in c++ will include ReadPlot3DData, WriteSU2Data, ConvertPlot3DToSU2
    - Use Python to read input and write output data
-   - Use C++ to implement the “Data Conversion” library
+   - Use C++ to implement the `Data Conversion` library
 
 2. Use Pybind11 to wrap C++ functions for Python.
 
@@ -68,20 +68,24 @@ for their simulations.
 
 ## Schedule
 
-* Week 1 (10/30):  
+* Week 1 (10/30):    
+
 1.Study domain knwoledges  
 2.Prepare a presentaion skeleton  
 
-* Week 2 (11/6):  
+* Week 2 (11/6):    
+
 1.Search and gather suitable Plot3D mesh data format and comprehend structures and characteristic  
 of both Plot3D and SU2.  
 2.Start to design the conversion in C++ if 1. is done in advance
 * Week 3 (11/13): Implement conversion in C++
 * Week 4 (11/20): Implement conversion in C++ and bind to python
-* Week 5 (11/27):  
+* Week 5 (11/27):    
+
 1.Implement a CMake file for a draft  
 2.Add some works and adjust the presentation draft
-* Week 6 (12/4):  
+* Week 6 (12/4):    
+
 1.Write unit tests and refactor codes.  
 2.Check whether if my presentation draft follow the grading criteria.  
 3.Integrate to modmesh (depends on remaining time)
