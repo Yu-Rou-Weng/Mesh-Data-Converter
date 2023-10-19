@@ -36,8 +36,7 @@ into a format compatible with SU2. This converter will function as a standalone 
 
 ## Prospective Users
 
-1. Modmesh: (Will add more explanation after discussions)
-
+1. Modmesh: 
 2. Fluid dynamics professionals or researchers who need to exchange mesh data between Plot3D and SU2 when using different simulation software.
 
 3. In the aerospace and automotive industries, engineers frequently rely on computational fluid dynamics (CFD) simulations. This converter offers a more precise mesh data conversion solution 
