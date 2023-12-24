@@ -16,7 +16,7 @@ Converting NASA's Plot3D to SU2 file format is a key aspect of this mesh data co
 process, allowing seamless integration and utilization of the numerical solutions within 
 different computational frameworks.
 
-* Github Repository: [https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master](https://github.com/Yu-Rou-Weng/Mesh-Data-Converter/tree/master)
+* Github Repository: [https://github.com/Yu-Rou-Weng/modmesh)
 
 ## Problem to Solve
 
